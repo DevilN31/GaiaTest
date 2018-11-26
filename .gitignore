@@ -39,3 +39,5 @@ sysinfo.txt
 # Ignore Gaia
 Gaia/
 Gaia.meta
+Gaia Dependencies/
+Gaia Dependencies.meta
