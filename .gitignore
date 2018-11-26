@@ -37,4 +37,5 @@ sysinfo.txt
 *.unitypackage
 
 # Ignore Gaia
-\Assets\Gaia\*
+Gaia/
+Gaia.meta
